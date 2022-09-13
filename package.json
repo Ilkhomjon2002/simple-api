@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mariadb": "^3.0.1",
+    "mysql": "^2.18.1"
+  },
+  "name": "db_demo",
+  "version": "1.0.0",
+  "description": "A simple application to demostrate how to connect to a db",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+    "dev": "nodemon node.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
